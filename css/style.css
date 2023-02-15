@@ -1,0 +1,51 @@
+.right {
+  outline: 3px solid green;
+}
+
+.wrong {
+  outline: 3px solid red;
+}
+
+ol,
+ul {
+	padding: 20px;
+	border: 1px solid hotpink;
+}
+
+.bg {
+	background-color: blueviolet;
+}
+
+li {
+	padding: 20px;
+	border: 1px solid skyblue;
+}
+
+p {
+	padding: 20px;
+	border: 1px solid khaki;
+}
+
+td {
+	width: 50px;
+	height: 50px;
+	border: 1px solid black;
+	text-align: center;
+}
+
+.bg {
+	background-color: hotpink;
+}
+
+#form {
+	max-width: 250px;
+	margin-bottom: 15px;
+	display: flex;
+	flex-direction: column;
+	row-gap: 10px;
+}
+
+label {
+	display: flex;
+	justify-content: space-between;
+}
